@@ -1,4 +1,8 @@
-## FRC team 6423 Iron Patriots
+## <p align="center">FRC team 6423 Iron Patriots <p align="center">
+
+<p align="center"> We are your Ward Melville HS Robotics Team! <p align="center">
+
+[![Whoopsy, stuff did not load](https://img.youtube.com/vi/zD4pCzj_IfE/0.jpg)](https://www.youtube.com/watch?v=zD4pCzj_IfE)
 
 <!--
 
