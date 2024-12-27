@@ -2,6 +2,7 @@
 
 <p align="center"> We are your Ward Melville HS Robotics Team! <p align="center">
 
+![image info](./banenrArtboard_1.png)
 ![image info](./decibelFinalRender.png)
 
 <!--
